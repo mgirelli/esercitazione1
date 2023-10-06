@@ -1,2 +1,2 @@
-
-import scipy
+import matplotlib
+import healpy 
